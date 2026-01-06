@@ -1,5 +1,16 @@
 This is a three-month study plan.I'm goning to divide it into three stages.
 1.First stage:Master the basics of Python backend, databases, and containerization
-  a.Advanced Python Programming
-  b.Database technology
-  c.Containerization and Deployment
+  1.1 Advanced Python Programming
+    1.1.1 Agent Design Patterns
+    1.1.2 Tools Integration and Customization
+    1.1.3 Memory Management (Conversations, Vector Storage)
+    https://fastapi.tiangolo.com/
+  1.2 Database technology
+  1.3 Containerization and Deployment
+2.Second stage:Master LLM application development frameworks and agent design
+  2.1 Deep Mastery of LangChain/LlamaIndex
+  2.2 RAG System Development
+  2.3 Multi-Agent Architecture
+3.Third stage:Build a complete data pipeline and monitoring system
+  3.1 Data Pipeline Development
+  3.2 Monitoring and Observability
